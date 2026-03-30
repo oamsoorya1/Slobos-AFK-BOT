@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "kararamb.joinmc.world",
-    "port": 32970,
-    "version": "1.21.1"
+    "port": 42677,
+    "version": "1.20.6"
   },
   "position": {
     "enabled": true,
